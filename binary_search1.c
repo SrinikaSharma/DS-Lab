@@ -39,3 +39,15 @@ int BinarySearching(int arr[], int n, int key)
     }
     return -1;
 }
+
+/* Output :
+Enter the Limit of Elements in Array: 5
+Enter 5 Elements in Array: 2 4 6 8 10
+Enter Element To Search: 6
+Element 6 Found at Position 3 */
+
+/* Output :
+Enter the Limit of Elements in Array: 5
+Enter 5 Elements in Array: 2 4 6 8 10
+Enter Element To Search: 9
+Element 6 Not Found */
