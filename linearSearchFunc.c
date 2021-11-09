@@ -33,3 +33,17 @@ int linearSearch(int a[10], int n, int key)
     }
     return -1;
 }
+
+/* Output :
+enter the number of elements : 5
+enter the elements : 5 8 9 3 2
+Enter the element to find : 9
+Element found at 3 */
+
+/* Output :
+enter the number of elements : 5
+enter the elements : 5 8 9 3 2
+Enter the element to find : 4
+Element not found */
+
+
