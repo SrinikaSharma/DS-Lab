@@ -61,7 +61,7 @@ int main(){
 }
 
 
-Output:
+/*Output:
 1-push
 2-pop
 3-peek
@@ -130,3 +130,4 @@ top element is 2
 4-display
 5-exit
 Enter your choice : 5
+*/
