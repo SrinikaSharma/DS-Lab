@@ -70,7 +70,7 @@ int main(){
 }
 
 
-Output:
+/*Output:
 1-push
 2-pop
 3-peek
@@ -138,4 +138,4 @@ top most ele is 4
 3-peek
 4-display
 5-exit
-Enter your choice : 5
+Enter your choice : 5 */
