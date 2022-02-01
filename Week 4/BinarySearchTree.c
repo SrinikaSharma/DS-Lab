@@ -96,7 +96,7 @@ int main()
 	}
  }
  
- \*Output
+ /* Output
  1. create
  2. preorder
  3. inorder
